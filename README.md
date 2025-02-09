@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo"  src="./logo.png">
+	<img alt="logo"  src="./img/logo.png">
 </p>
 <h4 align="center">咸鱼私钥碰撞器</h4>
 <p align="center">寓意：逆境翻盘，咸鱼翻身</p>
@@ -13,13 +13,14 @@
  </p>
 
 
+
 ##  1.项目简介
 
 大家是否经常有看到一些沉睡多年的钱包苏醒异动新闻，往往这些钱包都是早期单价比较低的时候买入忘记助记词了的，这些都是通过助记词碰撞来找回。
 
 本软件通过遵循BIP39协议随机生成12位助记词，然后根据生成后的地址和导入的监控地址比较，如果一样则密钥一样
 
-<img alt="logo"  src="./bj.png">
+<img alt="logo"  src="./img/bj.png">
 
 ## 2.适用人群
 
@@ -64,17 +65,17 @@
 
 4.然后点击 wallet.exe 运行即可
 
-<img alt="logo"  src="./mulu.png">
+<img alt="logo"  src="./img/mulu.png">
 
 ## 6.界面显示
 
-<img alt="logo"  src="./jiemian.png">
+<img alt="logo"  src="./img/jiemian.png">
 
 ## 7.联系我们（Telegram）
 
 在线访问：<a href='https://t.me/web3_dev_gg' target="_blank" >咸鱼客服 </a>
 
-<img alt="logo"   src="./tg.png">
+<img alt="logo"   src="./img/tg.png">
 
 
 
