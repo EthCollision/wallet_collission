@@ -1,5 +1,5 @@
 <p align="center">
-	<img alt="logo"  src="./img/logo.png">
+	<img alt="logo"  src="./logo.png">
 </p>
 <h4 align="center">咸鱼私钥碰撞器</h4>
 <p align="center">寓意：逆境翻盘，咸鱼翻身</p>
@@ -9,9 +9,8 @@
       <img src="https://img.shields.io/badge/助记词-破解-yellow.svg">
       <img src="https://img.shields.io/badge/私钥-破解-green.svg">
       <img src="https://img.shields.io/badge/助记词-找回-blue.svg">
-      <img src="https://img.shields.io/badge/暴力碰撞-无任何后门-purple.svg">
+      <img src="https://img.shields.io/badge/私钥-找回-purple.svg">
  </p>
-
 
 
 ##  1.项目简介
@@ -20,7 +19,7 @@
 
 本软件通过遵循BIP39协议随机生成12位助记词，然后根据生成后的地址和导入的监控地址比较，如果一样则密钥一样
 
-<img alt="logo"  src="./img/bj.png">
+<img alt="logo"  src="./bj.png">
 
 ## 2.适用人群
 
@@ -42,7 +41,7 @@
 
 ​    联系客服获取安装包 -》在线客服Telegram：<a href='https://t.me/web3_dev_gg' target="_blank" >咸鱼客服 </a>
 
-​    赠送60w监控地址
+​    赠送50w监控地址
 
 ## 4.软件优势
    1、支持 ETH、BSC、BASE、Polygon、OP、Avalanche 等以太坊虚拟机 (EVM) 链
@@ -65,17 +64,17 @@
 
 4.然后点击 wallet.exe 运行即可
 
-<img alt="logo"  src="./img/mulu.png">
+<img alt="logo"  src="./mulu.png">
 
 ## 6.界面显示
 
-<img alt="logo"  src="./img/jiemian.png">
+<img alt="logo"  src="./jiemian.png">
 
 ## 7.联系我们（Telegram）
 
 在线访问：<a href='https://t.me/web3_dev_gg' target="_blank" >咸鱼客服 </a>
 
-<img alt="logo"   src="./img/tg.png">
+<img alt="logo"   src="./tg.png">
 
 
 
