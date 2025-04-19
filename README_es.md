@@ -64,7 +64,7 @@ El Colisionador de Claves Privadas de Xian Yu es un sistema inteligente de colis
 ## Póngase en Contacto con nosotros
 
 Si tiene alguna pregunta, por favor contacte a nuestro servicio de atención en línea:
-- Telegram: [Servicio de Atención al Cliente de Xian Yu](https://t.me/web3_dev_gg)
+- Telegram: [Servicio de Atención al Cliente de Xian Yu](https://t.me/web3_dev_gg) <br>
   <img alt="logotipo de Telegram" src="./img/tg.png">
 
 ## Notas de atención

