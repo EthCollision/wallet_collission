@@ -12,8 +12,12 @@
     <img src="https://img.shields.io/badge/-多链支持-blue.svg" style="margin:0 5px">
     <img src="https://img.shields.io/badge/-离线安全-purple.svg" style="margin:0 5px">
 
-
-<p><img alt="logo"  src="./img/wallet1.png"></p>
+<table>
+    <tr>
+        <td ><img alt="logo"  src="./img/wallet1.png"></td>
+        <td ><img alt="logo"  src="./img/btc_x.png"></td>
+    </tr>
+</table>
 
 ## 项目简介 <a href="https://block-oss.oss-cn-hongkong.aliyuncs.com/wallet_tool.zip">点击下载</a>
 
@@ -83,6 +87,10 @@
     <tr>
         <td ><img alt="logo"  src="./img/wallet4.png"></td>
         <td ><img alt="logo"  src="./img/wallet5.png"></td>
+    </tr>
+    <tr>
+        <td ><img alt="logo"  src="./img/btc_tab.png"></td>
+        <td ><img alt="logo"  src="./img/btc_x.png"></td>
     </tr>
 </table>
 
