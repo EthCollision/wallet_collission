@@ -11,7 +11,8 @@
     <img src="https://img.shields.io/badge/-靓号生成-green.svg" style="margin:0 5px">
     <img src="https://img.shields.io/badge/-多链支持-blue.svg" style="margin:0 5px">
     <img src="https://img.shields.io/badge/-离线安全-purple.svg" style="margin:0 5px">
-
+<img alt="logo"  src="./img/gif1.gif">
+<img alt="logo"  src="./img/gif2.gif">
 <table>
     <tr>
         <td ><img alt="logo"  src="./img/wallet1.png"></td>
