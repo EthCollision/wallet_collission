@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">加密货币钱包工具</h1>
 <p align="center">专业的钱包解决方案、助记词碰撞、私钥探索与区块链探索工具</p>
-<p align="center"><strong>官网：</strong><a href="http://wallet.vexcoin.top">http://wallet.vexcoin.top</a> </p>
 <p align="center">
     <img src="https://img.shields.io/badge/-助记词碰撞-red.svg" style="margin:0 5px">
     <img src="https://img.shields.io/badge/-私钥碰撞-brightgreen.svg" style="margin:0 5px">
