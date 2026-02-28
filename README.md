@@ -12,10 +12,11 @@
     <img src="https://img.shields.io/badge/-离线安全-purple.svg" style="margin:0 5px">
 <table>
     <tr>
-        <td ><img alt="logo"  src="./img/gif1.gif"></td>
-        <td ><img alt="logo"  src="./img/gif2.gif"></td>
+        <td ><img alt="logo"  src="https://block-oss.oss-cn-hongkong.aliyuncs.com/gif1.gif"></td>
+        <td ><img alt="logo"  src="https://block-oss.oss-cn-hongkong.aliyuncs.com/gif2.gif"></td>
     </tr>
 </table>
+
 
 
 ## 联系我们
