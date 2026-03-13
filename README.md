@@ -20,6 +20,8 @@
     </tr>
 </table>
 
+## 下载地址：<a href='https://block-oss.oss-cn-hongkong.aliyuncs.com/wallet_tool.zip'>点击下载</a>
+
 ## 联系我们
 
 <table>
