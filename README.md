@@ -4,13 +4,7 @@
 <h1 align="center">BTC 工具箱</h1>
 <p align="center">专业的钱包解决方案 · 助记词碰撞 · 私钥探索 · 助记词找回 · 靓号生成</p>
 <p align="center">
-    <img src="https://img.shields.io/badge/版本-v2.0.0-blue.svg" style="margin:0 5px">
-    <img src="https://img.shields.io/badge/-助记词碰撞-red.svg" style="margin:0 5px">
-    <img src="https://img.shields.io/badge/-私钥碰撞-brightgreen.svg" style="margin:0 5px">
-    <img src="https://img.shields.io/badge/-助记词找回-yellow.svg" style="margin:0 5px">
-    <img src="https://img.shields.io/badge/-靓号生成-green.svg" style="margin:0 5px">
-    <img src="https://img.shields.io/badge/-多链支持-blue.svg" style="margin:0 5px">
-    <img src="https://img.shields.io/badge/-离线安全-purple.svg" style="margin:0 5px">
+  <img src="https://img.shields.io/badge/%E7%89%88%E6%9C%AC-v2.0.0-blue.svg" alt="版本"> <img src="https://img.shields.io/badge/-%E5%8A%A9%E8%AE%B0%E8%AF%8D%E7%A2%B0%E6%92%9E-red.svg" alt="助记词碰撞"> <img src="https://img.shields.io/badge/-%E7%A7%81%E9%92%A5%E7%A2%B0%E6%92%9E-brightgreen.svg" alt="私钥碰撞"> <img src="https://img.shields.io/badge/-%E5%8A%A9%E8%AE%B0%E8%AF%8D%E6%89%BE%E5%9B%9E-yellow.svg" alt="助记词找回"> <img src="https://img.shields.io/badge/-%E9%9D%93%E5%8F%B7%E7%94%9F%E6%88%90-green.svg" alt="靓号生成"> <img src="https://img.shields.io/badge/-%E5%A4%9A%E9%93%BE%E6%94%AF%E6%8C%81-blue.svg" alt="多链支持"> <img src="https://img.shields.io/badge/-%E7%A6%BB%E7%BA%BF%E5%AE%89%E5%85%A8-purple.svg" alt="离线安全">
 </p>
 
 <p align="center">
